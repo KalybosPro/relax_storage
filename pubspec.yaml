@@ -14,6 +14,14 @@ topics:
   - local-storage
   - aes
 
+platforms:
+  android:
+  ios:
+  web:
+  macos:
+  windows:
+  linux:
+
 environment:
   sdk: ^3.11.0
   flutter: ">=1.17.0"
