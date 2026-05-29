@@ -24,7 +24,7 @@ Add `relax_storage` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  relax_storage: ^1.0.0
+  relax_storage: ^1.0.1
 ```
 
 Then run:
